@@ -1,0 +1,16 @@
+.credit-card {
+    display:inline-block;
+    border: 1px solid;
+    border-color: green;
+    border-radius: 4px;
+    padding: 1em;
+    width: 200px;
+    height:120px;
+    margin: 2em;
+}
+
+.is-expired {
+  border: 1px solid;
+  border-color: red;
+
+}
